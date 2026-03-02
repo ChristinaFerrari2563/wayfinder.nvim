@@ -45,3 +45,4 @@ Notes and usage details for wayfinder.nvim.
 - link the usage section
 - link the usage section
 - link the usage section
+- link the usage section
